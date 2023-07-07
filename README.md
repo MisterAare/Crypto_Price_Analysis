@@ -19,7 +19,11 @@ The data was extracted with Python using Yahoo Finance API.
 
 # Questions to answer with PowerBi
 
-
+1. Final close price as at 4th of July,2023
+2. Highest close price in the past 730days
+3. Lowest close price in the past 730days
+4. Average volume in the past 730days
+5. Price correlations 
 
 # Dashbaord Images
 

@@ -20,7 +20,7 @@ The dataset cleaning in this project involved the following process
 1. Format the number columns with the currency format ($)
 2. Rounding up columns to the nearest whole number
 3. Extract the day and month columns from the date table
-4. Establhsing relations between the tables
+4. Establhsing relations between the tables with Data Modelling
 
 ![data_cleaning_data_model](https://github.com/MisterAare/Crypto_Price_Analysis_with_PowerBI/assets/109184556/bceebc6d-05bd-4220-8312-027b03498952)
 

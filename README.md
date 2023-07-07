@@ -1,14 +1,12 @@
 # Crypto_Price_Analysis_with_PowerBI
 
-# Project Descriptions 
-
-This projects is a data visualization project designed with Power BI to analyze cryptocurrency datasets. Its dashboard offers extensive visualizations and insights into the market trends, performance, and patterns of Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC) over the past 730 days, covering the period up to July 5th, 2023. With Power BI's interactive features, this projects provides dynamic and user-friendly visual representations, empowering users to enhance their understanding of these cryptocurrencies.
+This project is a data visualization project designed with Power BI to analyze cryptocurrency datasets. Its dashboard offers extensive visualizations and insights into the market trends, performance, and patterns of Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC) over the past 730 days, covering the period up to July 5th, 2023. With Power BI's interactive features, this project provides dynamic and user-friendly visual representations, empowering users to enhance their understanding of these cryptocurrencies.
 
 # Business Statement
 
 In recent years, the allure of cryptocurrency has captured the attention of Nigerian youth, and an increasing number of adults are also eager to comprehend the world of digital currency due to its appealing benefits and potential for high investment returns. Nevertheless, as with any high-risk investment, cryptocurrencies have their drawbacks, which have become a significant concern for Nigerians interested in this asset class.
 
-Fortunately, one of the fundamental principles for achieving profitability in the crypto market, akin to other investments, lies in the meticulous analysis of market trends. Knowing the optimal timing to buy and sell can profoundly impact the profitability of a cryptocurrency investment. Unfortunately, the absence of comprehensive historical market analysis has hindered many Nigerians from fully embracing cryptocurrency.
+Fortunately, one of the fundamental principles for achieving profitability in the crypto market, akin to other investments, lies in the meticulous analysis of market trends. Knowing the optimal timing to buy and sell can profoundly impact the profitability of cryptocurrency investment. Unfortunately, the absence of comprehensive historical market analysis has hindered many Nigerians from fully embracing cryptocurrency.
 
 To address this gap, I am undertaking this project that leverages crypto data from the past 730 days, encompassing the period up to July 5th, 2023. The aim is to identify coins that have consistently demonstrated profitability as investment options. By conducting thorough analyses and evaluating prevailing market trends, this project seeks to provide valuable insights that will empower Nigerians to make well-informed decisions when it comes to their cryptocurrency investments.
 

@@ -1,6 +1,6 @@
 # Crypto_Price_Analysis
 
-This project is a data visualization project designed with Power BI to analyze cryptocurrency datasets. Its dashboard offers extensive visualizations and insights into the market trends, performance, and patterns of Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC) over the past 730 days, covering the period up to July 5th, 2023. With Power BI's interactive features, this project provides dynamic and user-friendly visual representations, empowering users to enhance their understanding of these cryptocurrencies.
+This project is a python web scraping and data visualization project designed with Power BI to analyze cryptocurrency datasets. Its dashboard offers extensive visualizations and insights into the market trends, performance, and patterns of Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC) over the past 730 days, covering the period up to July 5th, 2023. With Power BI's interactive features, this project provides dynamic and user-friendly visual representations, empowering users to enhance their understanding of these cryptocurrencies.
 
 # Business Statement
 

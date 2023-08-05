@@ -14,7 +14,7 @@ To address this gap, I am undertaking this project that leverages crypto data fr
 
 The data was extracted with Python using Yahoo Finance API.
 
-# Data Cleaning
+# Data Cleaning, Transformation and Modelling
 The dataset cleaning in this project involved the following process
 
 1. Format the number columns with the currency format ($)

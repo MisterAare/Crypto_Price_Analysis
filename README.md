@@ -48,4 +48,6 @@ The dataset cleaning in this project involved the following process
 
 
 
+# Interact with the Dashboard
 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjcwNjc5NzUtNTZjMS00ZWU2LWE4ODktY2Y5NjQ4NGNkOGU3IiwidCI6IjBiMWY3MDg1LWFiNTAtNGExZS1hNTFhLWVhZjk1MWNmZTU1MyJ9" target="_blank">CLICK HERE</a>
